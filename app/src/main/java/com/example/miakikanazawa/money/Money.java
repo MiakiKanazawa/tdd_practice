@@ -5,4 +5,5 @@ package com.example.miakikanazawa.money;
  */
 
 public class Money {
+    protected int amount;
 }
