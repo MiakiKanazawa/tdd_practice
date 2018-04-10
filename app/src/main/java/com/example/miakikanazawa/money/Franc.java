@@ -4,7 +4,7 @@ package com.example.miakikanazawa.money;
  * @author kanazawa
  */
 
-public class Franc extends Money {
+class Franc extends Money {
     Franc(int amount) {
         this.amount = amount;
     }

@@ -1,6 +1,6 @@
 package com.example.miakikanazawa.money;
 
-public class Dollar extends Money {
+class Dollar extends Money {
 
 
     Dollar(int amount) {
